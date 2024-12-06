@@ -3,10 +3,10 @@
 Welcome to the **official GitHub page for Terminus Calculator!** This repository is dedicated to sharing everything you need to know about the **ultimate puzzle-solving tool for Call of Duty Black Ops 6: Zombies**. Whether you're new to the game or a seasoned pro, the **Terminus Calculator** is here to enhance your gaming experience and help you conquer the most challenging puzzles with ease.
 
 ---
-**🔗 [Terminus Calculator](https://terminus-calculator.org/)** 
+**🔗 [Terminus Calculator](https://www.terminus-calculator.org/)** 
 
 
-![Placeholder for Terminus Calculator Banner](https://terminus-calculator.org/public/social-preview.png)
+![Placeholder for Terminus Calculator Banner](https://www.terminus-calculator.org/public/social-preview.png)
 
 ---
 
@@ -40,7 +40,7 @@ With this streamlined process, the **Terminus Calculator** makes puzzle-solving 
 
 ---
 
-![Placeholder for Terminus Calculator Banner](https://terminus-calculator.org/public/social-preview.png)
+![Placeholder for Terminus Calculator Banner](https://www.terminus-calculator.org/public/social-preview.png)
 
 ---
 
@@ -98,7 +98,7 @@ While not officially affiliated with the game developers, the **Terminus Calcula
 ## Join the Terminus Calculator Community
 
 We invite you to explore our official website for more information and to start solving puzzles today:  
-**🔗 [Terminus Calculator Official Site](https://terminus-calculator.org/)**  
+**🔗 [Terminus Calculator Official Site](https://www.terminus-calculator.org/)**  
 
 Whether you're a casual player looking for help with puzzles, a speedrunner chasing records, or a content creator streaming your gameplay, the **Terminus Calculator** is your ultimate ally. Join the growing community of players who trust the **Terminus Calculator** to enhance their gaming experience.
 
